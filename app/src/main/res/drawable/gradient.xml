@@ -1,0 +1,11 @@
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:gradientandroid="http://schemas.android.com/aapt">
+
+    <gradient
+        android:angle="270"
+        android:startColor="@color/cornflowerblue"
+        android:endColor="@color/lightblack"/>
+
+</shape>
